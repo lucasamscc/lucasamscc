@@ -1,12 +1,4 @@
-<p align="left">Hi there 👋,<br><br>🔭 I’m currently working on Development Intern<br>📚️ I'm studying Systems Analysis and Development at UDESC<br>📫 How to reach me:</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lucas-de-andrade-martins-8252a41b2/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="left">Hi there 👋,<br><br>🔭 I’m currently working on Development Intern<br>📚️ I'm studying Systems Analysis and Development at UDESC</p>
 
 ###
 
@@ -34,5 +26,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
+
 
 ###
