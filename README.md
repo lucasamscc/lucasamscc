@@ -1,4 +1,4 @@
-<p align="left">Hi there 👋,<br><br>🔭 I’m currently working on Software Development Intern<br>📚️ I'm studying Systems Analysis and Development at UDESC</p>
+<p align="left">Hi there 👋,<br><br>🔭 I’m currently working on Software Development<br>📚️ I'm studying Systems Analysis and Development at UDESC</p>
 
 ###
 
