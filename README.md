@@ -38,9 +38,7 @@
 
 ## 🌱 Currently Learning
 - Microservices architecture
-- Cloud technologies (AWS/Azure)
-- Advanced Spring Framework features
-- Performance optimization techniques
+- Design Pattern
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
